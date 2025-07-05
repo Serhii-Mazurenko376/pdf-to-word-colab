@@ -13,13 +13,13 @@ This tool allows you to convert PDF documents to Word (.docx) format directly in
 - `pdf2docx` Python library
 
 ### 📄 How to Use
-1. Open the Colab notebook [https://colab.research.google.com/drive/1Qb1vjMZkpo-WiF4bMdfTUd-1zBc7Y4W5].
+1. Open the Colab notebook [here] (https://colab.research.google.com/drive/1Qb1vjMZkpo-WiF4bMdfTUd-1zBc7Y4W5).
 2. Upload your PDF file.
 3. Wait a few seconds.
 4. Download the Word file with preserved layout.
 
 ### 📎 Sample Notebook
-> [https://colab.research.google.com/drive/1Qb1vjMZkpo-WiF4bMdfTUd-1zBc7Y4W5]
+> [Open Colab Notebook] (https://colab.research.google.com/drive/1Qb1vjMZkpo-WiF4bMdfTUd-1zBc7Y4W5)
 
 ### 🔒 Note
 - Scanned PDFs may not convert correctly (no OCR).
